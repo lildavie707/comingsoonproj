@@ -1,0 +1,32 @@
+body{
+    background-image: url(images/wip-work-in-progress-1024x701.jpg);
+    background-size: 33%;
+    padding: 100px;
+}
+article{
+    display: block;
+    text-align: left;
+    width: 650px;
+    margin: 0 auto;
+}
+#h1{
+    color: red;
+    text-align: center;
+    
+    font-size: 60px;
+    font-weight: bolder;
+}
+p{
+    color: red;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bolder;
+}
+#link1{
+    color: yellow;
+    text-decoration: none;
+}
+#link1:hover{
+    color: orange;
+    text-decoration: none;
+}
